@@ -7,8 +7,7 @@ description: How to get started in creating a Blog Space of your own using GitHu
 main-class:
 color:
 tags: 
-- github
 categories:
 twitter_text:
-introduction:
+introduction: How to get started with GitHub Pages
 ---
